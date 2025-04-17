@@ -4,9 +4,9 @@ kind: Service
 metadata:
   annotations:
     app.quarkus.io/quarkus-version: 3.21.3
-    app.quarkus.io/commit-id: fc71be25d80e23c283099a156c4e04ce1413ceac
+    app.quarkus.io/commit-id: c15899e84ffa88dcfd96653ce6a09fc2136a1a65
     app.quarkus.io/vcs-uri: https://github.com/og11423074s/validate-data.git
-    app.quarkus.io/build-timestamp: 2025-04-17 - 16:41:00 +0000
+    app.quarkus.io/build-timestamp: 2025-04-17 - 17:36:01 +0000
   labels:
     app.kubernetes.io/name: validate-data
     app.kubernetes.io/version: 1.0.0-SNAPSHOT
@@ -28,9 +28,9 @@ kind: Deployment
 metadata:
   annotations:
     app.quarkus.io/quarkus-version: 3.21.3
-    app.quarkus.io/commit-id: fc71be25d80e23c283099a156c4e04ce1413ceac
+    app.quarkus.io/commit-id: c15899e84ffa88dcfd96653ce6a09fc2136a1a65
     app.quarkus.io/vcs-uri: https://github.com/og11423074s/validate-data.git
-    app.quarkus.io/build-timestamp: 2025-04-17 - 16:41:00 +0000
+    app.quarkus.io/build-timestamp: 2025-04-17 - 17:36:01 +0000
   labels:
     app.kubernetes.io/name: validate-data
     app.kubernetes.io/version: 1.0.0-SNAPSHOT
@@ -45,9 +45,9 @@ spec:
     metadata:
       annotations:
         app.quarkus.io/quarkus-version: 3.21.3
-        app.quarkus.io/commit-id: fc71be25d80e23c283099a156c4e04ce1413ceac
+        app.quarkus.io/commit-id: c15899e84ffa88dcfd96653ce6a09fc2136a1a65
         app.quarkus.io/vcs-uri: https://github.com/og11423074s/validate-data.git
-        app.quarkus.io/build-timestamp: 2025-04-17 - 16:41:00 +0000
+        app.quarkus.io/build-timestamp: 2025-04-17 - 17:36:01 +0000
       labels:
         app.kubernetes.io/name: validate-data
         app.kubernetes.io/version: 1.0.0-SNAPSHOT
