@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.acme.GreetingResourceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-17T16:40:58" hostname="osmar-home" time="0.649">
+  <properties/>
+  <testcase name="testHelloEndpoint()" classname="org.acme.GreetingResourceTest" time="0.649"/>
+  <system-out><![CDATA[2025-04-17 13:40:58,477 INFO  [io.quarkus] (Test worker) validate-data 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.21.3) started in 1.783s. Listening on: http://localhost:8081
+2025-04-17 13:40:58,479 INFO  [io.quarkus] (Test worker) Profile test activated. 
+2025-04-17 13:40:58,480 INFO  [io.quarkus] (Test worker) Installed features: [cdi, hibernate-validator, kubernetes, rest, rest-jackson, smallrye-context-propagation, vertx]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
